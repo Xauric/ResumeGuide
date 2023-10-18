@@ -1,15 +1,10 @@
 # Missingno's Guide to Making Resumes That Don't Suck (Most of the time)
 A simple, no-nonsense guide for making resumes for job hunting in information security.
 
-So, you're currently hunting for your first information security job. 
-
 I'm not claiming to be an expert by *any* means on this. But I've done the job hunting thing long enough, and have hired people at other organizations long enough, to know what looks good and what doesn't. 
 Keep in mind, this is just my personal experience. I do not claim any responsibility for you getting or not getting interviews or jobs with what you do with the information here. 
 
-# So, where do I start?
-The first thing you want to do with your resume is remember what it's trying to accomplish. Remember, your resume should be your wingman. It's the thing that shows off just how great of a person you are. 
-
-# The first part of your resume: The Contact Information
+## The first part of your resume: The Contact Information
 The first thing your resume should include should be:
 - The name you prefer to be addressed by
 - Your phone number (You'll also want to make sure your voicemail is professional)
@@ -20,10 +15,12 @@ Conversely, your resume should *not* have:
 - Your geographical location. Unless you're applying to local jobs, having your location on a resume will more often be used as a reason to disqualify you.
 - Any social media that isn't strictly work related. This means Facebook, Twitter, Instagram, everything that might be used for personal use.
 
-You want to make yourself as memorable as possible, and you want to make getting a hold of you as easy as possible. Make sure you have your phone on you, and promptly get back to anyone who contacts you. This should constitute no more than 1/5th of your total resume. 
+You want to make getting a hold of you as easy as possible. Make sure you have your phone on you, and promptly get back to anyone who contacts you. Make sure to also update your voicemail if you're job hunting to ensure it sounds clear and professional. This should constitute no more than 1/5th of your total resume. 
 
-# The second part: Your professional summary
-Your professional summary is the tl;dr of who you are. It should be:
+## The second part: Your professional summary
+Your professional summary is the tl;dr of who you are. It should be able to answer "Why do you want this job?" before the question is even asked. 
+
+This should include:
 - Who you are
 - What you're doing
 - What you *want* to do
@@ -31,19 +28,79 @@ Your professional summary is the tl;dr of who you are. It should be:
 However, there's more to this than just writing yourself like a paragraph of technical summation. You want to make it personal! Communicate *who you are*. Remember, resumes (and job hunting as a whole) is considered as much a *personality fit* as it is a *technical fit*. 
 
 For example, this is the one that I have in my resume:
-"Hi! I’m Missingno, I’m an Information Security professional with almost a decade’s worth of experience in the industry, a passion for Red and Blue Team Operations, and a specialization in vulnerability management, incident response, and penetration testing. I’m looking to advance my career in a senior-level Security Engineering position, to further my career and skills in a highly involved and technical position, and help mentor junior IT and Information Security professionals."
+> Hi! I’m Missingno, I’m an Information Security professional with almost a decade’s worth of experience in the industry, a passion for Red and Blue Team Operations, and a specialization in vulnerability management, incident response, and penetration testing. I’m looking to advance my career in a senior-level Security Engineering position, to further my career and skills in a highly involved and technical position, and help mentor junior IT and Information Security professionals.
 
 Be willing to be yourself! 
 
-# The third part: Your qualifications
+## The third part: Your qualifications
 
-Are you currently a student, or otherwise attended college? Do you have any certifications? 
+This should constitute the majority of your resume. This includes work experience, education, certifications, and technical skills you hold. 
 
-As a note: You should *not* list certifications you *plan on* taking. 
+### Work experience
+Your work experience, if you have it, should be the bulk of this. The best format I've found is to have **one to two sentences describing the actual job, and one to three bullet points summarizing accomplishments within those jobs.** 
 
-# So what if I don't have any technical experience and want to gain it?
+For example:
+> I worked to build up the Security Operations program at Evil Corp within their Azure environment, and served as an SME for several projects including Help Desk, SOP creation, and Incident Response. I was first responder and technical lead for all Evil Corp incidents, interfacing with internal technical teams and external executives for incident resolution, and worked to develop the SOC utilizing Azure Sentinel as the sole administrator for the platform.
+> - Established automated threat hunting and intelligence processes within CrowdStrike and Microsoft Sentinel.
+> - Created and implemented comprehensive Vulnerability Management Program for NIST 800-171 compliance utilizing Crowdstrike Spotlight, working with system and process owners to remediate detected vulnerabilities within acceptable timeframes.
 
-# Okay, but I don't *have* any experience. What do I do?
+### Education
+You'll want to include:
+- The school name
+- The name of the program
+- The dates you've been attending them, by year
+
+You will NOT want to include:
+- An "expected" graduation date
+- Your GPA
+- Your high school
+
+### Certficiations
+This one is a little bit easier to play fast and loose with. It really depends on what job you're applying for, but I organize my certifications by authoritative body, and list them all on a single line. However, do whatever works best for you. 
+
+As a note: You should *not* list certifications you *plan on* taking. Unless you have a training course that you can speak to in an interview (such as the PEH for the PNPT, or the PWK-200 for the OSCP), listing certifications you plan on taking on their own looks silly at best, and will actively disqualify you from a job at worst. If you don't have it, don't list it. 
+
+### Technical skills
+Like certifications, this one is a bit easier to play fast and loose with. I list my skills based on two criteria:
+- What industry are they most applicable to?
+- How much training is required to reach a level of competency with them?
+
+Ergo, don't include things like nmap or impacket. As important as those tools are, if I can learn how to use a tool with a single google search, it isn't worth listing. 
+
+Conversely, if you're familiar with *larger* concepts that require significantly more training and experience, like:
+- Software suites such as Nessus, CrowdStrike, or Splunk
+- Technical concepts such as Secure Software Development Life Cycles, the Incident Response lifecycle, or the Vulnerability Management lifecycle
+- Technical Frameworks such as ISO 27001, NIST 800-53, and the MITRE ATT&CK Framework
+- Regulatory Frameworks, such as SOC 2 Type 2 and FedRAMP.
+
+They should absolutely be included. You want to emphasize that you will require *as minimal training as possible* to get up to speed.
+
+## The fourth part: Extracurricular stuff
+
+Your resume should close out with a section describing who you are *outside of work.* This may seem silly, but it's unironically one of the best sections you can include in a resume. My extracurricular section has gotten me more interviews, and more comments *in* interviews, than anything else on my resume.
+
+> I spend my free time doing pentesting and forensic challenges on TryHackMe, pentesting challenges on HackTheBox, high-end raiding in Final Fantasy XIV, and continually learning as much as I can. I also participate in TCM Security and Black Hills Information Security discord servers, helping build the community and mentor newcomers as often as I can.
+
+> And rest assured, none of this resume was written with ChatGPT.
+
+Make your own summary! This should compliment your professional summary, bookending your technical experience with a little reminder of who you are.
+
+## Some other fun stuff to keep in mind
+
+### Shotgun vs Sniper Rifle
+There are two methodologies to job hunting. I call them the spaghetti shotgun, and the meatball sniper rifle methods. Quantity vs quality, as it were. 
+
+The spaghetti shotgun is the logical conclusion of "throwing spaghetti at a wall and seeing what sticks". This includes using the same resume, and firing it out to as many open jobs as you can find, with the idea being that if you apply to enough positions, at least *one* will get back to you. 
+
+The meatball sniper rifle is the patent opposite. You apply to a fraction of the positions available, but you put a *ton* of effort into those applications. 
+
+By far, the sniper rifle method is better. 
+
+Make sure you tune your resume to the position you're applying for. Highlight and showcase the experience that you have that makes you qualified for the position. This can include rewriting your entire resume, depending on what your experience is. I also go so far as to include the position name in my professional summary as the position I want to move into. I usually have 4-5 different resumes that I'm cycling between, tuning them a little here and there to make sure I have a good template to work with and minimize the amount of work I have to do during a job hunt.  
+
+No method is wrong. However, whatever method you choose should be tuned to what the job market is, and I've universally found more success putting in more effort into a smaller amount of applications, than I have mass applying with the same application to a ton of jobs. Remember, quantity vs quality.
+
+### 3-5 years experience
 Here's one of the biggest things I had to learn when I first started out:
 **When companies say they want 3-5 years experience for an entry level job, they aren't necessarily talking about professional experience.**
 
@@ -55,18 +112,6 @@ Are you working in help desk? That's just about the most valuable experience you
 Are you a software developer? Guess what, a lot of people don't know how to code securely. 
 Are you a lawyer or legal-adjacent? GRC is an entire field dedicated to Governance, Regulation, and Compliance. (GRC also stands for Governance Risk Management and Compliance but just roll with me here)
 
-Well that's nice, but what if you aren't in IT at all?
+Well that's nice, but what if you aren't in IT at all? Maybe you work at a restaurant or a call center, or maybe you do blue collar work. Well, a lot of the skills I use in infosec I didn't gain from my career in IT, but rather my time working Geek Squad as a help desk jockey. Several of those soft skills, such as **escalation and expectation management, solutions research, and service level agreement management** are extremely valuable in infosec, particularly in jobs where you have clients like at an MSSP (Managed Security Services Provider).
 
-Are you client-facing? Do you have a phone support job? Maybe you work at a restaurant or a call center, or maybe you do blue collar work. You'll be surprised to hear this, but a lot of the skills I use in infosec I didn't gain from my career in IT, but rather my time working Geek Squad as a help desk jockey, helping grandmas figure out how to turn on their computer. Several of those soft skills, such as **escalation and expectation management, solutions research, and service level agreement management** are extremely valuable in infosec, particularly in jobs where you have clients like at an MSSP (Managed Security Services Provider).
-
-My point is: **There is no such thing as irrelevant experience in infosec.** I've worked with all number of people from different backgrounds, from people who were private investigators and special agents with the FBI, to janitors of 20 years and dental assistants. 
-
-The great thing about IT as a field of science is that it's completely man-made. If I wanted to be a nuclear physicist, I couldn't go out to Amazon or Walmart and buy the same tools that they use. But I sure can for the tools that infosec professionals use on the daily. 
-
-There are plenty of websites and resources out there that are very affordable, or outright free, to be able to learn the beginner skills necessary to get into IT and infosec. 
-
-For Red and Blue Team Operations, I recommend:
-- [TryHackMe](https://www.tryhackme.com/) - A gamified platform to help teach everything from pentesting to vulnerability management to incident response through hands-on training.
-- [HackTheBox Academy](https://academy.hackthebox.com/) - Similar to TryHackMe, but with a significantly deeper amount of knowledge related to pentesting and bug bounties.
-- [HackTheBox Labs](https://app.hackthebox.com) - The sister "site" to HackTheBox Academy, this features remote machines that you try to hack into, utilizing the knowledge you gain from HTB academy.
-
+My point is: **There is no such thing as irrelevant experience in infosec.** The way you present that is everything. Don't lie about your experience, but be able to speak to how your experience has helped you be prepared for certain aspects of the job.
