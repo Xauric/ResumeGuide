@@ -87,6 +87,9 @@ Make your own summary! This should compliment your professional summary, bookend
 
 ## Some other fun stuff to keep in mind
 
+### Brevity is the wit of the soul
+If you have less than five years of professional experience, your resume should be no longer than a single page. Anything longer than that, and you risk coming off as padding your resume just to look more impresssive. Remember, **no one likes writing or reading resumes.** Make yours as easy as possible to read through!
+
 ### Shotgun vs Sniper Rifle
 There are two methodologies to job hunting. I call them the spaghetti shotgun, and the meatball sniper rifle methods. Quantity vs quality, as it were. 
 
@@ -96,9 +99,7 @@ The meatball sniper rifle is the patent opposite. You apply to a fraction of the
 
 By far, the sniper rifle method is better. 
 
-Make sure you tune your resume to the position you're applying for. Highlight and showcase the experience that you have that makes you qualified for the position. This can include rewriting your entire resume, depending on what your experience is. I also go so far as to include the position name in my professional summary as the position I want to move into. I usually have 4-5 different resumes that I'm cycling between, tuning them a little here and there to make sure I have a good template to work with and minimize the amount of work I have to do during a job hunt.  
-
-No method is wrong. However, whatever method you choose should be tuned to what the job market is, and I've universally found more success putting in more effort into a smaller amount of applications, than I have mass applying with the same application to a ton of jobs. Remember, quantity vs quality.
+Make sure you tune your resume to the position you're applying for. Highlight and showcase the experience that you have that makes you qualified for the position. This can include rewriting your entire resume, depending on what your experience is. I also go so far as to include the position name in my professional summary as the position I want to move into. I usually have 4-5 different resumes that I'm cycling between, tuning them a little here and there to make sure I have a good template to work with and minimize the amount of work I have to do during a job hunt. 
 
 ### 3-5 years experience
 Here's one of the biggest things I had to learn when I first started out:
