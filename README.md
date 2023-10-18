@@ -1,8 +1,7 @@
 # Missingno's Guide to Making Resumes That Don't Suck (Most of the time)
 A simple, no-nonsense guide for making resumes for job hunting in information security.
 
-I'm not claiming to be an expert by *any* means on this. But I've done the job hunting thing long enough, and have hired people at other organizations long enough, to know what looks good and what doesn't. 
-Keep in mind, this is just my personal experience. I do not claim any responsibility for you getting or not getting interviews or jobs with what you do with the information here. 
+I'm not claiming to be an expert by *any* means on this. Keep in mind, this is just my personal experience, and I wanted to share what's worked for me in my most recent job hunts.  
 
 ## The first part of your resume: The Contact Information
 The first thing your resume should include should be:
