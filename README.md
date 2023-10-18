@@ -98,7 +98,11 @@ The meatball sniper rifle is the patent opposite. You apply to a fraction of the
 
 By far, the sniper rifle method is better. 
 
-Make sure you tune your resume to the position you're applying for. Highlight and showcase the experience that you have that makes you qualified for the position. This can include rewriting your entire resume, depending on what your experience is. I also go so far as to include the position name in my professional summary as the position I want to move into. I usually have 4-5 different resumes that I'm cycling between, tuning them a little here and there to make sure I have a good template to work with and minimize the amount of work I have to do during a job hunt. 
+Make sure you tune your resume to the position you're applying for. Highlight and showcase the experience that you have that makes you qualified for the position. This can include rewriting your entire resume, depending on what your experience is. I usually like to review the position I'm applying for, and include verbiage from the listing's responsibilities or requirements in my resume in some fashion or another. I also go so far as to include the position name in my professional summary as the position I want to move into. I usually have 4-5 different resumes that I'm cycling between, tuning them a little here and there to make sure I have a good template to work with and minimize the amount of work I have to do during a job hunt. 
+
+However, by far I cannot more highly recommend **avoiding Linkedin Easy Apply positions.** These are a waste of time, and I can count on one hand the amount of times an Easy Apply position has actually responded to me (and of those, only one was an actual interview.) 
+
+Yes, going to an external job site (Especially something like Workday) is a pain in the ass. However, putting that effort into your application shows, and it will more than likely get you at least a *response*.
 
 ### 3-5 years experience
 Here's one of the biggest things I had to learn when I first started out:
@@ -115,3 +119,13 @@ Are you a lawyer or legal-adjacent? GRC is an entire field dedicated to Governan
 Well that's nice, but what if you aren't in IT at all? Maybe you work at a restaurant or a call center, or maybe you do blue collar work. Well, a lot of the skills I use in infosec I didn't gain from my career in IT, but rather my time working Geek Squad as a help desk jockey. Several of those soft skills, such as **escalation and expectation management, solutions research, and service level agreement management** are extremely valuable in infosec, particularly in jobs where you have clients like at an MSSP (Managed Security Services Provider).
 
 My point is: **There is no such thing as irrelevant experience in infosec.** The way you present that is everything. Don't lie about your experience, but be able to speak to how your experience has helped you be prepared for certain aspects of the job.
+
+### Lots of bites, but still no fish
+So you tune up your resume, but you find you still aren't getting interviews. Or maybe you're getting interviews, but no offers. 
+
+Here's the rules I like to abide by for job hunting:
+- If you aren't getting interviews, something is wrong with your resume
+- If you aren't getting final interviews, something is wrong with your knowledge
+- If you aren't getting jobs, something is wrong with your soft skills
+
+Best of luck!
